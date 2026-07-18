@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1600&h=500&fit=crop&q=80&auto=format" width="100%"/>
+<img src="https://images.unsplash.com/photo-1483347756197-71ef80e95f73?w=1600&h=500&fit=crop&q=80&auto=format" width="100%"/>
 <br><sub>code at scale, on a screen somewhere — where most of my week actually happens</sub>
 
 </div>
