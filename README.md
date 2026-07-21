@@ -74,6 +74,14 @@ Delay-Tolerant Satellite Network Simulator
   Benchmarked under 0-30% random link/node failure injection —
   85-95% delivery success at moderate failure rates, with
   degradation analysis at higher thresholds.
+
+FlightPulse — Cascading Flight-Delay Risk Engine
+  Real-time risk engine predicting whether a flight's delay propagates
+  to downstream flights on the same aircraft. Graph-based data model
+  (Neo4j) for cascade path tracing, PySpark ETL, and an XGBoost model
+  reaching 0.78 ROC-AUC on a time-based split. Synthetic turnaround
+  simulator grounded in real BTS statistics to fill a gap no public
+  dataset covers. FastAPI + WebSocket serving layer, live React dashboard.
 ```
 
 <br>
