@@ -157,7 +157,7 @@ Performance Optimization         Contact-Graph Routing
 <div align="center">
 
 <a href="mailto:malavikabadam00@gmail.com"><img src="https://img.shields.io/badge/-malavikabadam00%40gmail.com-041016?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-0B2A3B?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/malavika-badam-950988271"><img src="https://img.shields.io/badge/-LinkedIn-0B2A3B?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/malavika1127"><img src="https://img.shields.io/badge/-malavika1127-123B4F?style=flat&logo=github&logoColor=white" /></a>
 
 </div>
